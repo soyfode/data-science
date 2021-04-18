@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Álgebra lineal}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Matrices}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Suma y multiplicación de matrices}{3}{subsection.1.1.1}%
